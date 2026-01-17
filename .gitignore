@@ -1,0 +1,5 @@
+# Built libraries
+tracy.dylib
+tracy.so
+tracy.lib
+tracy.obj
